@@ -1,2 +1,2 @@
 # wcic
-cryptocurrency
+Cryptocurrency
